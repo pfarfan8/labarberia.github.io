@@ -1,0 +1,23 @@
+{
+  "name": "pagina-propia",
+  "version": "1.0.0",
+  "description": "primera pagina web, rubro elegido barberia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfarfan8/la-barberia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pfarfan8/la-barberia/issues"
+  },
+  "homepage": "https://github.com/pfarfan8/la-barberia#readme",
+  "devDependencies": {
+    "sass": "^1.56.2"
+  }
+}
